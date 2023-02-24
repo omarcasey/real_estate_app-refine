@@ -1,4 +1,4 @@
-# Real Estate Dashboard
+# Real Estate Manager
 The Real Estate Dashboard is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows real estate agents to manage their properties and users in a user-friendly and efficient manner.
 
 # [Link To Deployed Site](https://real-estate-app-refine.netlify.app/)
