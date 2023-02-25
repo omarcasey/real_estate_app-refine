@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
-import yariga from "./yariga.svg";
+import logo from "./renthomelogo.png";
+import renthome from "./renthome.png";
 
-export { logo, yariga };
+export { logo, renthome };
